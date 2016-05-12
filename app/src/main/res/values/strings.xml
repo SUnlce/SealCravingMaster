@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">篆刻大师</string>
+    <string name="default_seals_font">default_seals.ttf</string>
+    <string name="default_running_hand_font">default_running_hand.TTF</string>
+</resources>
